@@ -27,6 +27,6 @@ Sử dụng mô hình **ResNet-34** (Residual Network 34 layers) với phương 
 
 ### 1. Cài đặt môi trường
 ```bash
-git clone [https://github.com/thinha1/CNN_SatelliteClassification.git](https://github.com/thinha1/CNN_SatelliteClassification.git)
+git clone [[https://github.com/thinha1/CNN_SatelliteClassification.git](https://github.com/Thinha1/LocalRainfallClassifcation.git)
 cd CNN_SatelliteClassification
-pip install -r requirements.txt
+pip install -r requirement.txt
