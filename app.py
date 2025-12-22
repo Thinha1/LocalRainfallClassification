@@ -18,9 +18,9 @@ CORS(app)
 #Cấu hình email
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587  # Hoặc 465 nếu dùng SSL/TLS
-SENDER_EMAIL = "Thinhanhdang014@gmail.com"  # Email gửi
-SENDER_PASSWORD = "zsdo jfhd rzuw ufmr"  # Mật khẩu ứng dụng (App Password)
-RECEIVER_EMAIL = "Thinhanhdang012@gmail.com" # Email nhận cảnh báo
+SENDER_EMAIL = "Mail_cua_ban"  # Email gửi
+SENDER_PASSWORD = "mat_khau_cua_ban"  # Mật khẩu ứng dụng (App Password)
+RECEIVER_EMAIL = "Mail_ban_muon_nhan" # Email nhận cảnh báo
 
 # Đọc CSV
 df = pd.read_csv("rainfall_data.csv")
