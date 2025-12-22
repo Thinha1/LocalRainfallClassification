@@ -1,6 +1,6 @@
 # CNN Satellite Classification using ResNet-34
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.10.9%2B-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![Dataset](https://img.shields.io/badge/Data-Aqua%20MODIS-green.svg)](https://modis.gsfc.nasa.gov/data/)
 
