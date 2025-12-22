@@ -1,0 +1,21 @@
+/Dataset_split
+ /__pycache__/
+ *.pyc
+ venv/
+ env/
+ .vscode/
+ .idea/
+ *.sqlite3
+ *.db
+ *.log
+*.h5
+*.hdf5
+*.ckpt
+*.pth
+*.pt
+*.jpg
+ .DS_Store
+ Thumbs.db
+ uploads/
+ model/
+*.tif
