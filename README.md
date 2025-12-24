@@ -5,7 +5,7 @@
 [![Dataset](https://img.shields.io/badge/Data-Aqua%20MODIS-green.svg)](https://modis.gsfc.nasa.gov/data/)
 
 ## 📝 Giới thiệu
-Đồ án cuối kỳ môn **Trí tuệ nhân tạo (AI)**. Dự án thực hiện phân loại ảnh vệ tinh từ cảm biến **MODIS** của vệ tinh **Aqua** (NASA). Mục tiêu là nhận diện và phân loại các kiểu che phủ bề mặt (ví dụ: mây, nước, rừng, băng tuyết,...) dựa trên kiến trúc mạng Deep Learning **ResNet-34**.
+Đồ án cuối kỳ môn **Trí tuệ nhân tạo (AI)**. Dự án thực hiện phân loại ảnh vệ tinh từ cảm biến **MODIS** của vệ tinh **Aqua** (NASA). Mục tiêu là nhận diện và phân loại nguy cơ mưa thông qua đặc trưng như mây,... dựa trên kiến trúc mạng Deep Learning **ResNet-34**.
 
 ## 🛰️ Dữ liệu (Dataset)
 Dữ liệu được trích xuất từ vệ tinh Aqua thông qua bộ cảm biến MODIS:
